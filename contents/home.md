@@ -1,6 +1,6 @@
 
 
-[![Rongxian's github](C:/Users/95718/Desktop/vscode/Program/crx16888.github.io/static/assets/favicon.ico)](https://github.com/crx16888)
+[![Github](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/crx16888)
 
 **南京大学控制系研｜深度强化学习**\
 **产品｜设计｜开发&算法**\
