@@ -1,13 +1,35 @@
-- National Scholarship of Graduate Student, 2024.
+# 🚀 独立开发项目
 
-- First-prize Scholarship of CUMT, 2024.
+## 🎮 超级马里奥 DRL
+*基于深度强化学习的游戏 AI*
 
-- First-prize Scholarship of CUMT, 2023.
+- 🤖 使用深度强化学习方法训练超级马里奥游戏 AI
+- 🎯 实现自动游戏通关
+- 🔗 [查看代码](https://github.com/crx16888/RL_SuperMario)
 
-- Freshman Scholarship of CUMT, 2022.
+## 📚 Linker Info
+*个人信息库管理系统*
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 📝 自定义信息库管理助手
+- 🔒 私密数据安全存储
+- 🔄 智能信息分类与检索
+- 🔗 [私密仓库]
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+## 🤖 微信AI助手
+*智能对话机器人*
 
-- First-prize Scholarship of CUMT, 2019.
+- 💬 自动回复功能
+- 🧠 基于大语言模型
+- 🔄 持续优化中
+
+## 📄 PDF-Chat
+*智能文档问答系统*
+
+- 🚀 一天内完成从复现到微调
+- 📚 基于RAG技术的PDF文档知识库
+- 💡 支持智能问答和文档解析
+- 🔗 [查看代码](https://github.com/crx16888/PDF-Chat)
+
+---
+
+> 时间紧迫，半天时间临时做的网站，暂时先展现这么多；未来会持续优化我的个人网站内容和UI设计。

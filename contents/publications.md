@@ -1,12 +1,76 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+# 个人经历
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+## 🎓 学术研究 & 实习经历
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+### 北京三星电子研究院
+**机器人算法实习生** | *2022年12月 - 2023年2月*
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- 🤖 开发基于点云的多任务抓取网络
+- 📊 主要工作：
+  - 搭建厨房场景数据集
+  - 实现Franka Panda机械臂控制
+  - 设计并训练GraspNet网络
+- 📝 参与IROS会议论文实验工作
+- 🔍 协助进行机器人领域市场调研
+- 🔗 [访问官网](https://www.samsung.com.cn/about-us/business-area/r-and-d-center/)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+### 矿区无人驾驶调度系统
+**南京大学机器人与自动化学院** | *2024年7月 - 至今*
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- 🎯 针对安徽枞阳矿区大规模生产调度问题
+- 🔬 设计基于蚁群算法的新型优化调度算法
+- 📈 目标：实现矿山总产量最大化
+- 🔗 [查看仿真代码](https://github.com/crx16888/MineDispatcher-Openmines)
+
+### 机甲大师机器人研发
+**大连理工大学 Robotmaster2023** | *2022年9月 - 2022年12月*
+
+- 🤖 基于STM32、ROS开发机器人控制系统
+- 🛠️ 开发内容：
+  - 麦克纳姆轮控制
+  - 舵机控制
+  - DJI 3508无刷电机驱动
+  - 六轴机械臂系统
+- 🔗 [查看项目代码](https://github.com/crx16888/robotmaster-2023)
+
+## 🚀 创业经历
+
+### 大连理工大学渝工创业团队
+**市场部负责人/副队长** | *2020年12月 - 2023年12月*
+
+- 📚 打造校内首个专业课学习复习宝典和历年考试题库
+- 💰 实现全校覆盖，班级购买率超85%，年流水稳定100w+
+- 🏆 个人业绩：
+  - 电信学院购买率达90%
+  - 单月销售流水破10w（团队最高）
+- 🤝 组织多项校园活动，解决学生实际需求
+
+### 宁波Xbot孵化器
+**硬件研发实习生** | *2025年1月 - 2025年2月*
+
+- 💪 开发智能健身指导设备
+- 🎯 实现力量训练实时反馈系统
+
+### 深圳科创学院
+**项目负责人** | *2025年2月 - 2025年3月*
+
+- 🏆 项目：Silence 声域盾（无需佩戴的鼾声屏蔽器）
+- ✨ 成功入选科创学院19进6 demo day直通项目
+
+### 南京大学创业者社群
+**社群发起人与主理人** | *2025年4月 - 至今*
+
+- 🌱 发起并管理南京大学创业者社群，现有成员300+人，核心管理团队11人
+- 🎯 两个月内组织5次以上高质量活动，包括workshop、coffee chat和经验分享会
+- 👥 成功邀请多位行业专家进行分享：
+  - 一线基金初始员工
+  - Zion无代码平台开发者生态总监
+  - 小红书00后最佳独立开发者
+  - Dreamoo创始人
+- 🔮 计划承办南京首场黑客松活动，推动社群向南京创业者社群转型
+  
+
+
+
+
 
