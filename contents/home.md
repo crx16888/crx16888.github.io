@@ -12,7 +12,7 @@ crx16888@gmail.com
 
 #### Education
 M.E., 自动化 电子信息与电气工程学部，大连理工大学，2020-2024\
-B.E., 控制工程 机器人与自动化学院, 南京大学, 2024-present.
+B.E., 控制工程 机器人与自动化学院，南京大学，2024-present.
 
 #### Research Interests
 DRL，Product Design and Full-Stack Development
