@@ -13,9 +13,9 @@ import avatar from '@/assets/avatar.jpeg'
 import favicon from '@/assets/icons/favicon.svg'
 import config from '@/site-config'
 
-const languages = ['Html', 'JavaScript', 'CSS', 'Go', 'Java']
-const frontend = ['TypeScript', 'Vite', 'Webpack', 'Vue', 'React', 'Angular', 'TailwindCSS', 'Less', 'Sass']
-const backend = ['Spring', 'Docker', 'Nginx']
+const languages = ['Html', 'JavaScript', 'CSS', 'C', 'Python']
+const frontend = ['Vue', 'React', 'Astro']
+const backend = ['Flask', 'FastAPI']
 
 const MAX_POSTS = 10
 const allPosts = await getBlogCollection()
@@ -35,7 +35,7 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
       <div class='flex flex-col items-center gap-y-4'>
         <h1 class='text-3xl font-bold'>{config.author}</h1>
         <div class='flex flex-wrap justify-center gap-x-7 gap-y-3'>
-          <Label title='China / WuHan'>
+          <Label title='China / NanJing'>
             <Icon name='location' class='size-5' slot='icon' />
           </Label>
           <Label
@@ -54,11 +54,11 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
       <Section title='About'>
         <p class='text-muted-foreground'>Developer</p>
         <p class='text-muted-foreground'>
-          你好，我叫 JohnieXu，具有 8 年前端开发经验（2017-至今）。
-          擅长 Vue、React、Angular 等前端框架，熟悉 Spring 等后端框架，熟悉 MySQL 等数据库。
-          熟练使用 Git、Github 等版本控制工具，熟悉 Linux 等操作系统。
-          熟悉 Docker 等容器化工具。
-          热爱开源，喜欢写博客。
+        南京大学机器人与自动化学院｜深度强化学习 <br />
+        产品｜运营｜开发&算法 <br />
+        Xbotpark&深圳科创学院创投校友 <br />
+        奇绩创坛2025春季路演高校参访、南客松（南京市首场黑客松）发起人 <br />
+        正在AI自动化出海领域初创，颠覆传统制造业交付的新范式 
         </p>
         <Button title='More about me' class='w-fit self-end' href='/about' style='ahead' />
       </Section>
@@ -109,10 +109,10 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
       <Section title='Education'>
         <Card
           as='a'
-          heading='长江大学'
-          subheading='机械设计制造及自动化学士学位'
-          date='August 2012 - July 2016'
-          href='https://www.yangtzeu.edu.cn/'
+          heading='大连理工大学'
+          subheading='自动化学士学位'
+          date='August 2020 - July 2014'
+          href='https://www.dlut.edu.cn/'
         >
           {
             /* <ul class='ms-4 list-disc text-muted-foreground'>
@@ -124,6 +124,23 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
         </ul> */
           }
         </Card>
+        <Card
+          as='a'
+          heading='南京大学'
+          subheading='控制工程硕士在读'
+          date='August 2024 - 至今'
+          href='https://www.nju.edu.cn/'
+        >
+          {
+            /* <ul class='ms-4 list-disc text-muted-foreground'>
+          <li>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore debitis recusandae, ut
+            molestiae laboriosam pariatur!
+          </li>
+          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, pariatur!</li>
+        </ul> */
+          }
+      </Card>
       </Section>
 
       <!-- <Section title='Website List'>
