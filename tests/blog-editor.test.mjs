@@ -12,6 +12,12 @@ const requiredSnippets = [
   'value="public"',
   'localStorage.setItem(BLOG_STORAGE_KEY',
   'localStorage.getItem(BLOG_STORAGE_KEY',
+  'blog-posts.json',
+  'GITHUB_API_CONTENT_URL',
+  'api.github.com/repos/crx16888/crx16888.github.io/contents/blog-posts.json',
+  'name="githubToken"',
+  'function commitPublicPost',
+  'function loadPublishedPosts',
   'data-blog-posts',
   'id="blog-public-export"',
 ];
@@ -29,5 +35,8 @@ assert.match(
 assert.match(
   html,
   /function\s+downloadPublicPost\s*\(/,
-  "Public posts should have an export path for repository publishing."
+  "Public posts should keep a fallback export path for repository publishing."
 );
+
+const publicPosts = JSON.parse(readFileSync(new URL("../blog-posts.json", import.meta.url), "utf8"));
+assert.deepEqual(publicPosts, { posts: [] }, "Public posts should have a repository-backed JSON store.");
